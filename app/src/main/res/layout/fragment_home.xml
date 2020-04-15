@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        tools:context=".HomeFragment">
+
+<!--    <ImageView-->
+<!--        android:layout_width="match_parent"-->
+<!--        android:layout_height="190dp"-->
+<!--        android:background="@color/colorPrimaryDark" />-->
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <ScrollView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginTop="170dp">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_weight="1.5">
+
+                <LinearLayout
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:gravity="center_horizontal"
+                    android:orientation="vertical">
+
+                    <ImageButton
+                        android:layout_width="140dp"
+                        android:layout_height="140dp"
+                        android:background=" #ecf0f1 "
+                        android:src="@drawable/ic_action_profile"></ImageButton>
+
+                    <ImageButton
+                        android:layout_width="140dp"
+                        android:layout_height="140dp"
+                        android:layout_marginTop="15dp"
+                        android:background=" #ecf0f1 "
+                        android:src="@drawable/ic_action_profile"></ImageButton>
+
+                    <ImageButton
+                        android:layout_width="140dp"
+                        android:layout_height="140dp"
+                        android:layout_marginTop="15dp"
+                        android:background=" #ecf0f1 "
+                        android:src="@drawable/ic_action_profile"></ImageButton>
+
+                    <ImageButton
+                        android:layout_width="140dp"
+                        android:layout_height="140dp"
+                        android:layout_marginTop="15dp"
+                        android:background=" #ecf0f1 "
+                        android:src="@drawable/ic_action_profile"></ImageButton>
+
+                    <ImageButton
+                        android:layout_width="140dp"
+                        android:layout_height="140dp"
+                        android:layout_marginTop="15dp"
+                        android:background=" #ecf0f1 "
+                        android:src="@drawable/ic_action_profile"></ImageButton>
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:gravity="center_horizontal"
+                    android:orientation="vertical">
+
+                    <ImageButton
+                        android:layout_width="140dp"
+                        android:layout_height="140dp"
+                        android:background=" #ecf0f1 "
+                        android:src="@drawable/ic_action_profile"></ImageButton>
+
+                    <ImageButton
+                        android:layout_width="140dp"
+                        android:layout_height="140dp"
+                        android:layout_marginTop="15dp"
+                        android:background=" #ecf0f1 "
+                        android:src="@drawable/ic_action_profile"></ImageButton>
+
+                    <ImageButton
+                        android:layout_width="140dp"
+                        android:layout_height="140dp"
+                        android:layout_marginTop="15dp"
+                        android:background=" #ecf0f1 "
+                        android:src="@drawable/ic_action_profile"></ImageButton>
+
+                    <ImageButton
+                        android:layout_width="140dp"
+                        android:layout_height="140dp"
+                        android:layout_marginTop="15dp"
+                        android:background=" #ecf0f1 "
+                        android:src="@drawable/ic_action_profile"></ImageButton>
+
+                    <ImageButton
+                        android:layout_width="140dp"
+                        android:layout_height="140dp"
+                        android:layout_marginTop="15dp"
+                        android:background=" #ecf0f1 "
+                        android:src="@drawable/ic_action_profile"></ImageButton>
+                </LinearLayout>
+            </LinearLayout>
+        </ScrollView>
+
+    </LinearLayout>
+</RelativeLayout>

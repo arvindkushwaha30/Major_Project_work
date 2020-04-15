@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "725922981557",
+    "firebase_url": "https://government-exams-1560e.firebaseio.com",
+    "project_id": "government-exams-1560e",
+    "storage_bucket": "government-exams-1560e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:725922981557:android:8a5b4584d70ebb3ebc00fc",
+        "android_client_info": {
+          "package_name": "com.example.governmentexamstudy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "725922981557-o1jalfi5vm0gon4mnfm18ndcfpm2jt16.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.governmentexamstudy",
+            "certificate_hash": "59fb7f6cffe43f87b16fa72c8d338237a79b6290"
+          }
+        },
+        {
+          "client_id": "725922981557-e1ng6af989ecom1aqcpb9m0ne43j9tg0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3IPmsyJZTRBacUl8LW7ZqDfw29rp2Y8A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "725922981557-e1ng6af989ecom1aqcpb9m0ne43j9tg0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

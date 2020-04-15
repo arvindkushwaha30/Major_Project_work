@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">Edupark</string>
+    <string name="registerlogo">Register Logo</string>
+    <string name="name">Name</string>
+    <string name="email">Email Address :</string>
+    <string name="confirmpass">Confirm Password</string>
+    <string name="buttontext">REGISTER</string>
+    <string name="Already_registered">Already Register ? Login Here !</string>
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password:</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="register_with_goole">Login With Google Account </string>
+    <string name="password">Password :</string>
+    <string name="sign_in">SIGN IN</string>
+    <string name="new_user">New User?</string>
+    <string name="createaccount">Create an Account</string>
+    <string name="forgotpassword">Forgot Your Password ?</string>
+    <string name="edupark">EDUPARK</string>
+    <string name="login">LOGIN</string>
+    <string name="forgot_password">Forgot Password ?</string>
+    <string name="send">SEND</string>
+    <string name="title_activity_after_login">AfterLogin</string>
+    <string name="home">Home</string>
+    <string name="profile">Profile</string>
+    <string name="aboutus">About Us</string>
+    <string name="help">Help</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="updateprofile">Update Your Profile details</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="feedback">Share Your Feedback With Us.</string>
+    <!-- for spinner setting  in MainActivity-->
+    <string-array name="setting">
+        <item></item>
+        <item>Change Password</item>
+        <item>Log Out</item>
+    </string-array>
+</resources>
